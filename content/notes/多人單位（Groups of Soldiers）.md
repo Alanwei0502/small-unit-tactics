@@ -1,3 +1,9 @@
+---
+title: 多人單位（Groups of Soldiers）
+draft: false
+tags:
+  - sut
+---
 ## 單位（Unit）
 ---
 一個具有固定、明確指揮鏈的群體。本手冊中的單位包括：[[#排（Platoon）]]、[[#班（Squad）]]、[[#火力組（Team / Fire-Team）]]。

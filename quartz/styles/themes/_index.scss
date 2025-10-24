@@ -1796,9 +1796,13 @@ body {
   }
 
   input[type="checkbox"]:checked:after {
+    mask-image: none;
     -webkit-mask-image: none;
+    mask-position: 0% 0%;
     -webkit-mask-position: 0% 0%;
+    mask-repeat: repeat;
     -webkit-mask-repeat: repeat;
+    mask-size: auto;
     -webkit-mask-size: auto;
     background-color: rgba(0, 0, 0, 0);
     content: normal;
@@ -2283,6 +2287,9 @@ body {
     white-space: pre;
 
     &>code {
+      background-color: transparent;
+      color: var(--code-normal);
+
       span[style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"] {
         color: var(--code-value) !important;
         //color: var(--color-purple) !important;
@@ -2342,9 +2349,6 @@ body {
         color: var(--code-keyword) !important;
         //color: var(--color-red) !important;
       }
-
-      background-color: transparent;
-      color: var(--code-normal);
     }
   }
 }

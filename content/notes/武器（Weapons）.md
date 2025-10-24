@@ -1,15 +1,36 @@
+---
+title: 武器（Weapons）
+draft: false
+tags:
+  - sut
+---
 ## 卡賓步槍（M4）
 卡賓步槍，使用 5.56mm 子彈，下掛 M203 榴彈發射器
-![[m4.avif]]
+
+![m4.avif](m4.avif)
+
+---
 ## 班用機槍（M249）
 班用機槍，使用 5.56mm 子彈
-![[m249.avif]]
+
+![m249.avif](m249.avif)
+
+---
 ## 榴彈發射器（M320）
 40mm 的榴彈發射器，可下掛、也裝有可拆式槍托的獨立使用版，以替換 M203 榴彈發射器
-![[m320.avif]]
-![[m320_with_m4.avif]]
+
+![m320.avif](m320.avif)
+
+![m320_with_m4.avif](m320_with_m4.avif)
+
+---
 ## 排用機槍（M240B）
 排用機槍，使用 7.62mm 子彈
-![[m240b.avif]]
+
+![m240b.avif](m240b.avif)
+
+---
 ## 反戰車火箭筒（AT4）
-反戰車火箭筒，名稱來源是彈頭口徑尺寸 84mm，讀音「Eighty-four」，也有「Anti-Tank」的意思  ![[at4.avif]]
+反戰車火箭筒，名稱來源是彈頭口徑尺寸 84mm，讀音「Eighty-four」，也有「Anti-Tank」的意思 
+
+![at4.avif](at4.avif)

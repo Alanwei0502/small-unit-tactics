@@ -1,3 +1,9 @@
+---
+title: 接敵後回報（ACE Report）
+draft: false
+tags:
+  - sut
+---
 常用於接敵後重組小隊時，確定部隊狀態的方式。ACE 代表著「**彈藥（Ammunition）、傷亡（Casualty）、裝備（Equipment）**」。狀態可以使用紅色、黃色、綠色表達。
 
 ## 彈藥（Ammunition）

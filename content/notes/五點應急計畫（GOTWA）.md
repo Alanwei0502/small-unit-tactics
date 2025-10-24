@@ -1,3 +1,9 @@
+---
+title: 五點應急計畫（GOTWA）
+draft: false
+tags:
+  - sut
+---
 每當小隊分開時，移動小隊的隊長都會向駐紮小隊的隊長下達 GOTWA。
 
 1. 我要去哪裡做什麼（**G**oing to location）
@@ -6,6 +12,7 @@
 4. 若我遲到怎麼辦（**W**hat to do if late）
 5. 接敵行動（**A**ctions on contact for both elements）
 
+___
 ## 範例
 1. 我現在要出發對 ORP 進行 [[領隊偵察（Leader's Recon, LR）]]
 2. 我會帶上 RTO、火支組隊長、Alpha隊長、三名彈藥兵和一名步槍兵（建議使用本名）

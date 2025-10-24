@@ -1,3 +1,9 @@
+---
+title: 領導單位（Leadership Positions）
+draft: false
+tags:
+  - sut
+---
 ## 組長（Team Leader）
 負責協調組內成員完成單兵無法完成的任務。  例如：地形導航需要多人協作，組長會分派任務（計步、看地圖、檢查羅盤），讓全組能有效合作。
 

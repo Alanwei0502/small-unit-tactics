@@ -1,3 +1,9 @@
+---
+title: 強固據點（Strong Point）
+draft: false
+tags:
+  - sut
+---
 「強固據點」是將 **一個射界（sector-of-fire）分配給多名士兵**，而不是單獨一人。
 - 好處：
     - 士兵可暫時離開位置（例如整理背包），而不用另外找人頂替。
