@@ -3,7 +3,6 @@ title: COOL-E 原則
 draft: false
 tags:
   - sut
-  - ambush
 ---
 良好的 [[目標集合點（Objective Rally-Point, ORP）]] 必須符合 COOL-E 原則
 

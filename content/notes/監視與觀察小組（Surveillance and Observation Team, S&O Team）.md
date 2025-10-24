@@ -3,7 +3,6 @@ title: 監視與觀察小組（S&O Team）
 draft: false
 tags:
   - sut
-  - ambush
 ---
 S&O 是一個隱蔽的、由兩名士兵組成的觀測／監視哨位，用以持續監視目標區域並回報重要資訊（尤其是敵方動態）。
 

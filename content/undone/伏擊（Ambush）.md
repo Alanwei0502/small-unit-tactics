@@ -3,7 +3,6 @@ title: 伏擊（Ambush）
 draft: true
 tags:
   - sut
-  - ambush
 ---
 ![overview_map_of_an_ambush_mission.avif](overview_map_of_an_ambush_mission.avif)
 > 「如果你發現自己身處一場公平的戰鬥，那就表示你沒有妥善規劃你的任務。」

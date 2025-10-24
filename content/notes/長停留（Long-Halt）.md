@@ -3,7 +3,6 @@ title: 長停留（Long-Halt）
 draft: false
 tags:
   - sut
-  - ambush
 ---
 與 [[短停留（Short-Halt）]] 類似，如果停留時間會超過 5 分鐘，為了安全起見應該實施長停留，長停留固然會花費更多的時間，因其中包含了些額外的步驟：
 1. [[#反追蹤（Counter-Tracking）]]

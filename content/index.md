@@ -1,6 +1,22 @@
 ---
-title: Small Unit Tactics
+title: 小部隊作戰筆記庫
 draft: false
 tags:
 ---
- 
+這是一個關於小部隊作戰（Small Unit Tactics, SUT）的知識庫，使用 Quartz 建置。本知識庫包含了各種軍事戰術、裝備使用和作戰原則的詳細說明。
+
+## 目錄結構
+
+### 📁 notes/
+主要筆記內容
+
+### 📁 undone/
+待完成的筆記
+
+## 主要文件
+- [小部隊作戰（SUT）](./小部隊作戰（Small%20Unit%20Tactics,%20SUT）.md) - 本知識庫的主要入口文件，提供整體概述。
+
+## 注意事項
+- 本知識庫內容僅供學習參考
+- 持續更新中，歡迎提供意見和建議
+- 使用 Quartz 系統進行管理，支援雙向連結和知識圖譜

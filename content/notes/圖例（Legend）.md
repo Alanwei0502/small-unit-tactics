@@ -3,7 +3,6 @@ title: 圖例（Legend）
 draft: false
 tags:
   - sut
-  - ambush
 ---
 ![legned.avif](legned.avif)
 
