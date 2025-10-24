@@ -1,3 +1,8 @@
+---
+title: 領隊偵察（Leader's Recon, LR）
+draft: true
+tags:
+---
 謹慎地建立 [[目標集合點（Objective Rally-Point, ORP）]] 流程，必須執行領隊偵察，以謹慎評估欲建立 ORP 地點後才佔領，同樣的流程也可以用在建立 [[巡邏基地（Patrol Base）]]。
 
 > 小單位先行確認區域，比整個巡邏隊前往更不容易被敵人發現，因此更安全。
